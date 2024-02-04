@@ -2,16 +2,16 @@ import React, { Component } from "react";
 
 export const imdbs = [
   {
-    movieName: "Forever",
-    rate: 9.6,
+    movieName: "Home Alone 2",
+    rate: 9.8,
   },
   {
-    movieName: "Wonder",
-    rate: 8.5,
+    movieName: "Paper Towns",
+    rate: 7.5,
   },
   {
-    movieName: "Stranger Things",
-    rate: 7.9,
+    movieName: "Recep Ivedik 7",
+    rate: 8.9,
   },
 ];
 export default class Imdb extends Component {

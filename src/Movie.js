@@ -43,13 +43,16 @@ const styles = {
   description: {
     margin: "30px 20px",
     fontSize: "12px",
+    
   },
   genre: {
-    fontStyle: "italic",
-    color: "#007bff",
+    fontStyle: "bold",
+    color: "green",
+    fontSize:"10px"
   },
   creator: {
     margin: "10px 0",
     fontWeight: "bold",
+    color:"green"
   },
 };

@@ -13,7 +13,8 @@ export default class Header extends Component {
 
 const styles = {
   container: {
-    height: "50px",
+    height: "30px",
+    minWidth:"200vh",
     display: "flex",
     flexDirection: "row",
     justifyContent: "center",
@@ -21,7 +22,9 @@ const styles = {
     boxShadow: "0 4px 8px rgba(0, 0.3, 0, 0.3)",
     padding: "20px",
     color: "white",
-    backgroundColor: "rgb(250, 24, 200)",
+    backgroundColor: "rgb(8, 73, 85)",
+    color:"yellow",
+    
   },
   h1: {
     margin:"500px"
